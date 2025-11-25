@@ -1,2 +1,2 @@
 # OficinaGit
-Ofina git 2025
+Oficina Git 2025
